@@ -31,6 +31,3 @@ and follow the instructions on the general user interface.
 ![Alt Text](https://media.giphy.com/media/AqhLI3Zrv5i8ksK4qF/giphy.gif)
 
 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
